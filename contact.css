@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 40px 10px 0px 10px;
+}
+
+.main ul {
+    display: flex;
+    list-style: none;
+}
+
+ul li a {
+    margin: 0px 20px 0px 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.but {
+    font-size: 20px;
+    background-color: blue;
+    border-radius: 4px;
+}
+
+.but a {
+    color: white;
+    text-decoration: none;
+}
+
+.main span {
+    color: black;
+}
+
+h2 a {
+    text-decoration: none;
+}
+
+h2 {
+    color: blue;
+    font-size: 35px;
+}
+.head{
+    text-align: center;
+    margin-top: 60px;
+}
+.mid{
+    width: 1262px;
+    height: 700px;
+    background-color: blue;
+    margin-top: 40px;
+}
+.mid h2{
+    text-align: center;
+    padding-top: 40px;
+    color: white;
+}
+.box1{
+    margin-left: 120px;
+    margin-top: 50px;
+}
+input{
+    width: 450px;
+    height: 30px;
+}
+label{
+    color: white;
+}
+label span{
+    color: red;
+}
+.mainbox{
+    display: flex;
+}
+.box2 input{
+    width: 1020px;
+    height: 150px;
+}
+.box2{
+    margin-left: 120px;
+    margin-top: 30px;
+}
+button a{
+    text-decoration: none;
+   
+}
+.mid button{
+    width: 150px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+.bottom{
+    width: 500px;
+    height: 200px;
+    border: 2px solid rgb(237, 225, 225);
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+.imgl{
+    width: 120px;
+    height: 120px;
+    position: absolute;
+}
+.imgl img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 50px;
+    position: relative;
+    margin-top: -55px;
+    margin-left: 190px;
+}
+.mainbottom{
+    display: flex;
+    margin-top: 70px;
+    justify-content: space-around;
+}
+.hadp{
+    text-align: center;
+    margin-top: 86px;
+}
+.hadp p{
+    margin-top: 30px;
+}
+.call{
+    text-align: center;
+    margin-top: 50px;
+}
+.call h3{
+    font-size: 30px;
+}
+.call button{
+    width: 150px;
+    height: 30px;
+    margin-top: 15px;
+    background-color: blue;
+    border-radius: 20px;
+}
+.call a{
+    color: white;
+    border: none;
+    text-decoration: none;
+}
+.Buttonlast{
+    width: 1263;
+    height: 300px;
+    background-color: blue;
+    color: white;
+    opacity: 0.9;
+    margin-top: 50px;
+}
+.logo{
+    margin-left: 120PX;
+    padding-top: 85PX;
+    font-weight: bold;
+    font-size: 60PX;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    justify-content: space-between;
+    margin: 12px 75px 0px 75px;
+}
+hr{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.myicon a{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+.servies a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    font-size: 20px;
+}
+.details{
+    margin-top: 15px;
+    margin-left: 75px;
+    font-size: 14px;
+}
+.detail{
+    margin-left: 75px;
+    color: rgb(177, 114, 114);
+    font-size: 14px;
+}
+

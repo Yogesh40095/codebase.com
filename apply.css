@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head{
+    color: blue;
+    margin-top: 20px;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.head h2 a{
+    text-decoration: none;
+}
+.head span{
+    color: black;
+}
+.myicon a{
+    text-decoration: none;
+    font-size: 20px;
+    margin: 5px;
+}
+.comp a{
+    background-color: blue;
+    color: white;
+    border-radius: 2px;
+}
+.contaner{
+    width: 1262px;
+    height: 500px;
+    background-color: rgb(214, 214, 222);
+    overflow: auto;
+}
+.works{
+    width: 1245px;
+    height: 500px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    padding: 100px;
+    font-size: 37px;
+}
+.works a{
+    color: black;
+    border: 2px solid white;
+    background-color: white;
+    font-size: 30px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.works p{
+    font-size: 20px;
+    padding-top: 20px;
+}
+.mid h2{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+}
+.labels{
+    display: flex;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 400px;
+    font-size: 25px;
+}
+.label{
+    padding-right: 20px;
+}
+.loco
+{
+    height: 100px;
+    width: 900px;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+.loco:hover
+{
+    background-color: rgb(233, 229, 229);
+    border: 2px rgb(214, 214, 222);
+    border-radius: 5px;
+}
+.fa-location-dot::before
+{
+    content: '\f041';
+}
+.heading
+{
+    display: flex;
+    margin: 5px;
+}
+.full
+{
+    margin-left: 10px;
+}
+.butn
+{
+    height: 30px;
+    width: 60px;
+    color: aliceblue;
+    background-color:#666666;
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+}
+.butn a
+{
+color: #fff;
+text-decoration: none;
+}
+.butn:hover
+{
+    background-color: blue;
+    
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.head1
+{
+    padding: 20px;
+    color: gray;
+}
